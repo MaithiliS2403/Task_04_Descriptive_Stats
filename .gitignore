@@ -1,0 +1,17 @@
+# Ignore all dataset files
+data/*.csv
+*.zip
+
+# Python cache and temp files
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Environment and virtual env folders
+.env
+.venv/
+
